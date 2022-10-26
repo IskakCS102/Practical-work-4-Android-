@@ -1,11 +1,11 @@
-# TSN_DEMO_04_EBook
-Электронная книга
+Главная страница электронного учебника.
+![screenshot2](https://user-images.githubusercontent.com/90903338/198018930-b326e0a7-a69c-4466-b05c-54e20a8867ba.png)
 
-![Screenshot](screenshot1.png)
+Литература электронного учебника.
+![Screenshot_20221026_174222](https://user-images.githubusercontent.com/90903338/198019048-739e1fe5-8c38-455d-a2eb-7eb8aba1a17b.png)
 
-![Screenshot](screenshot2.png)
+Характеристики наушников.
+![Screenshot_20221026_174149](https://user-images.githubusercontent.com/90903338/198019119-5e50a902-4986-4684-8103-3b7b592d59a2.png)
 
-https://www.youtube.com/watch?v=LGl9R8_IgNU
-
-Прокрутка WebView клавишами громкости:
-https://gist.github.com/proffix4/45eee6d9bb511512efccb535e46fa465
+Возможность написать автору электронного учебника, так же купить и почитать историю наушников.
+![Screenshot_20221026_174257](https://user-images.githubusercontent.com/90903338/198019203-0e8caabc-949e-4585-b874-20c2db323a94.png)
