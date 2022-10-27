@@ -1,5 +1,6 @@
 Главная страница электронного учебника.
-<img src="![screenshot2](https://user-images.githubusercontent.com/90903338/198018930-b326e0a7-a69c-4466-b05c-54e20a8867ba.png)" width="500">!
+![screenshot2](https://user-images.githubusercontent.com/90903338/198208354-cbf19ff4-8960-414f-bdf8-a317f6943a98.png)
+
 Литература электронного учебника.
 ![Screenshot_20221026_174222](https://user-images.githubusercontent.com/90903338/198019048-739e1fe5-8c38-455d-a2eb-7eb8aba1a17b.png)
 
